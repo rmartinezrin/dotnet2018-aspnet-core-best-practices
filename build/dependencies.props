@@ -1,22 +1,22 @@
 <Project>
   <PropertyGroup Label="SDK Versions">
     <NetStandardTargetVersion>netstandard2.0</NetStandardTargetVersion>
-    <NetCoreTargetVersion>netcoreapp2.0</NetCoreTargetVersion> 
+    <NetCoreTargetVersion>netcoreapp2.2</NetCoreTargetVersion> 
   </PropertyGroup>
   
   <PropertyGroup Label="Package Versions">    
-    <MicrosoftAspNetCoreAllPackageVersion>2.0.7</MicrosoftAspNetCoreAllPackageVersion>        
-    <NewtonsoftJsonPackageVersion>10.0.1</NewtonsoftJsonPackageVersion>
-    <FluentValidationAspNetCorePackageVersion>7.4.0</FluentValidationAspNetCorePackageVersion>
+    <MicrosoftAspNetCoreAllPackageVersion>2.2.1</MicrosoftAspNetCoreAllPackageVersion>        
+    <NewtonsoftJsonPackageVersion>12.0.1</NewtonsoftJsonPackageVersion>
+    <FluentValidationAspNetCorePackageVersion>8.1.3</FluentValidationAspNetCorePackageVersion>
     <SwashbuckleAspNetCorePackageVersion>2.4.0</SwashbuckleAspNetCorePackageVersion>
   </PropertyGroup>
 
   <PropertyGroup Label="Test Package Versions">
-    <MicrosoftNETTestSdkPackageVersion>15.5.0</MicrosoftNETTestSdkPackageVersion>
-    <FluentAssertionsVersion>5.0.0</FluentAssertionsVersion>
-    <ASPNetCoreTestHostVersion>2.0.1</ASPNetCoreTestHostVersion>
-    <XUnitPackageVersion>2.3.1</XUnitPackageVersion>
-    <XUnitRunnerVisualstudio>2.3.1</XUnitRunnerVisualstudio>
+    <MicrosoftNETTestSdkPackageVersion>15.9.0</MicrosoftNETTestSdkPackageVersion>
+    <FluentAssertionsVersion>5.6.0</FluentAssertionsVersion>
+    <ASPNetCoreTestHostVersion>2.2.0</ASPNetCoreTestHostVersion>
+    <XUnitPackageVersion>2.4.1</XUnitPackageVersion>
+    <XUnitRunnerVisualstudio>2.4.1</XUnitRunnerVisualstudio>
   </PropertyGroup>
 
   <PropertyGroup Label="CLI Tools Versions">
